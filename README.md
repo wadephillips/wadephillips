@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on refactoring a legacy php application and rebuilding my personal website.
+- 🔭 I’m currently working on refactoring a building a api for managing food storage spaces in PHP with Laravel and rebuilding my personal website.
 - 🌱 I’m ~~currently~~ always learning.  But I'm particularly interested in PHP, Laravel, and Vue
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
